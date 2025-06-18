@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921724158167",
+    "project_id": "soricc-1e85a",
+    "storage_bucket": "soricc-1e85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921724158167:android:ed919833c4f329b80f3092",
+        "android_client_info": {
+          "package_name": "com.example.soricc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZasXCeOr1T-J2RbqLO3bM7XHyLazWzZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
